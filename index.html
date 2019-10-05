@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Index for Sample Games on Cocos2dJS</title>
+  <style>
+	body {
+	  font-family: Alegreya Sans;
+	  background: #d1bada;
+	}
+	.menu {
+	  position: relative;
+	  background: #9400d3;
+	  width: 3em;
+	  height: 3em;
+	  border-radius: 5em;
+	  margin: auto;
+	  margin-top: 5em;
+	  margin-bottom: 5em;
+	  cursor: pointer;
+	  border: 1em solid #7f1184;
+	}
+	.menu:after {
+	  content: "";
+	  position: absolute;
+	  top: 1em;
+	  left: 1em;
+	  width: 1em;
+	  height: 0.2em;
+	  border-top: 0.6em double #fff;
+	  border-bottom: 0.2em solid #fff;
+	}
+	.menu ul {
+	  list-style: none;
+	  padding: 0;
+	}
+	.menu li {
+	  width: 7em;
+	  height: 1.4em;
+	  padding: 0.2em;
+	  margin-top: 0.2em;
+	  text-align: center;
+	  border-top-right-radius: 0.5em;
+	  border-bottom-right-radius: 0.5em;
+	  transition: all 1s;
+	  background: #7f1184;
+	  opacity: 0;
+	  z-index: -1;
+	}
+	.menu:hover li {
+	  opacity: 1;
+	}
+	.menu:hover ul::before {
+	  position: absolute;
+	  content: "";
+	  width: 0;
+	  height: 0;
+	  display: block;
+	  left: 50%;
+	  top: -5.0em;
+	  border-width: 6.5em;
+	  border-radius: 0 7.5em 7.5em 0;
+	  border-left: 0;
+	  border-style: solid;
+	  border-color: rgba(0,0,0,0.01);
+	  z-index: -1;
+	  cursor: default;
+	}
+	.menu a {
+	  color: white;
+	  text-decoration: none;
+	  line-height: 1.5em;
+	}
+	.menu ul {
+	  transform: rotate(180deg) translateY(-2em);
+	  transition: 1s all;
+	}
+	.menu:hover ul {
+	  transform: rotate(0deg) translateY(-1em);
+	}
+	.menu li:hover {
+	  background: #9400d3;
+	  z-index: 10;
+	}
+	.menu li:nth-of-type(1) {
+	  transform: rotate(-90deg);
+	  position: absolute;
+	  left: -2.2em;
+	  top: -5.2em;
+	}
+	.menu li:nth-of-type(2) {
+	  transform: rotate(-60deg);
+	  position: absolute;
+	  left: 0.6em;
+	  top: -4.4em;
+	}
+	.menu li:nth-of-type(3) {
+	  transform: rotate(-30deg);
+	  position: absolute;
+	  left: 2.6em;
+	  top: -2.4em;
+	}
+	.menu li:nth-of-type(4) {
+	  position: absolute;
+	  left: 3.4em;
+	  top: 0.4em;
+	}
+	.menu li:nth-of-type(5) {
+	  transform: rotate(30deg);
+	  position: absolute;
+	  left: 2.6em;
+	  top: 3.2em;
+	}
+	.menu li:nth-of-type(6) {
+	  transform: rotate(60deg);
+	  position: absolute;
+	  left: 0.6em;
+	  top: 5.2em;
+	}
+	.menu li:nth-of-type(7) {
+	  transform: rotate(90deg);
+	  position: absolute;
+	  left: -2.2em;
+	  top: 6em;
+	}
+	.menu li:nth-of-type(8) {
+	  transform: rotate(120deg);
+	  position: absolute;
+	  left: -5.1em;
+	  top: 5.2em;
+	}
+	.menu li:nth-of-type(9) {
+	  transform: rotate(150deg);
+	  position: absolute;
+	  left: -6.9em;
+	  top: 3.2em;
+	}
+	.menu li:nth-of-type(10) {
+	  transform: rotate(180deg);
+	  position: absolute;
+	  left: -7.8em;
+	  top: 0.4em;
+	}
+	.menu li:nth-of-type(11) {
+	  transform: rotate(210deg);
+	  position: absolute;
+	  left: -6.9em;
+	  top: -2.4em;
+	}
+	.menu li:nth-of-type(12) {
+	  transform: rotate(240deg);
+	  position: absolute;
+	  left: -5.1em;
+	  top: -4.4em;
+	}
+	.hint {
+	  text-align: center;
+	}
+	.right {
+	  text-align: right;
+	}
+  </style>
+</head>
+
+<body>
+<BR>
+<h1 class="hint">Menu for Sample Games on Cocos2d.JS</h1>
+<h3 class="right">2019/10/05 by T. Fujita</h3>
+<BR>
+<nav class="menu">
+  <ul>
+    <li><a href="./Cocos2d.js_Sample_01/Cocos2d_Sample_01.html" title="1. Display Static Character">1 Static Char.</a></li>
+    <li><a href="./Cocos2d.js_Sample_02/Cocos2d_Sample_02.html" title="2. Move the Static Character">2 Move Char.</a></li>
+    <li><a href="./Cocos2d.js_Sample_03/Cocos2d_Sample_03.html" title="3. Display Animated Character">3 Ani. Char</a></li>
+    <li><a href="./Cocos2d.js_Sample_04/Cocos2d_Sample_04.html" title="4. Move the Animated Character">4 Move Ani.</a></li>
+    <li><a href="./Cocos2d.js_Sample_05/Cocos2d_Sample_05.html" title="5. Set Walls and Boxies">5 Wall & Box</a></li>
+    <li><a href="./Cocos2d.js_Sample_06/Cocos2d_Sample_06.html" title="6. Finish Basic Sample Game">6 Basic Game</a></li>
+    <li><a href="./Cocos2d.js_Sample_06_with_sound_effect/Cocos2d_Sample_06_WSE.html" title="6. Finish Basic Sample Game with Sound">6 Add Sound</a></li>
+    <li><a href="./Cocos2d.js_Sample_07/Cocos2d_Sample_07.html" title="7. Maze type">7 Maze</a></li>
+
+  </ul>
+</nav>
+<BR><BR>
+<p class="hint">Hover to show menu!</p>
+</body>
+</html>
