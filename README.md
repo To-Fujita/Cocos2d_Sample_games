@@ -22,26 +22,26 @@ The files and folders are as follows:
 In these games, some graphics are downloaded from  [pikasgame](https://dorapika.wixsite.com/pikasgame) and [pipoya](http://blog.pipoya.net/). Then, files for sound effect are downloaded from [soundeffect-lab](https://soundeffect-lab.info/).  
 ### Step-1
 As a first step, let's try to display a static character's graphic at center of window.  
-[Cocos2d_Sample_01.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_01.html) : Demo for Step-1
+[Cocos2d_Sample_01.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_01/Cocos2d_Sample_01.html) : Demo for Step-1
 ### Step-2
 Next is to try moving a static character by arrow keys or mouse click.  
-[Cocos2d_Sample_02.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_02.html) : Demo for Step-2
+[Cocos2d_Sample_02.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_02/Cocos2d_Sample_02.html) : Demo for Step-2
 ### Step-3
 At the Step-3, try to display a active character's graphic at center of window.  
-[Cocos2d_Sample_03.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_03.html) : Demo for Step-3
+[Cocos2d_Sample_03.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_03/Cocos2d_Sample_03.html) : Demo for Step-3
 ### Step-4
 At the Step-4, try to display a walking animation for 4 directions by arrow keys or mouse click.  
-[Cocos2d_Sample_04.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_04.html) : Demo for Step-4
+[Cocos2d_Sample_04.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_04/Cocos2d_Sample_04.html) : Demo for Step-4
 ### Step-5
 At the Step-5, display tiles of walls and boxes. Then, to set the limit of walking at walls.  
-[Cocos2d_Sample_05.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_05.html) : Demo for Step-5
+[Cocos2d_Sample_05.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_05/Cocos2d_Sample_05.html) : Demo for Step-5
 ### Step-6
 At the Step-6, to set pushing a box. It is 2 type of 2D based game samples, that is without sound effect and with sound effect. If you try again same stage, please click the "A" tile.  
-[Cocos2d_Sample_06.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_06.html) : Demo for Step-6 without sound effect  
-[Cocos2d_Sample_06_with_sound_effect.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_06_with_sound_effect.html) : Demo for Step-6 with sound effect
+[Cocos2d_Sample_06.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_06/Cocos2d_Sample_06.html) : Demo for Step-6 without sound effect  
+[Cocos2d_Sample_06_with_sound_effect.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_06_with_sound_effect/Cocos2d_Sample_06_WSE.html) : Demo for Step-6 with sound effect
 ### Step-7
 In this step, try to create game for 2D type of maze with small chang of the sample in Step-6. The algorithm for making maze is based on [Algoful](http://algoful.com/Archive/Algorithm/MazeDig).  
-[Cocos2d_Sample_07.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_07.html) : Demo for Step-7
+[Cocos2d_Sample_07.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_07/Cocos2d_Sample_07.html) : Demo for Step-7
 
 ## Reference:
 1. [Cocos2d-x](https://www.cocos.com/en/) : Home Page of Cocos2d-x  
