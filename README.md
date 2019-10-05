@@ -38,7 +38,7 @@ At the Step-5, display tiles of walls and boxes. Then, to set the limit of walki
 ### Step-6
 At the Step-6, to set pushing a box. It is 2 type of 2D based game samples, that is without sound effect and with sound effect. If you try again same stage, please click the "A" tile.  
 [Cocos2d_Sample_06.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_06/Cocos2d_Sample_06.html) : Demo for Step-6 without sound effect  
-[Cocos2d_Sample_06_with_Sound_Effect.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2d_Sample_06_with_Sound_Effect/Cocos2d_Sample_06_WSE.html) : Demo for Step-6 with sound effect
+[Cocos2d_Sample_06_with_Sound_Effect.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_06_with_Sound_Effect/Cocos2d_Sample_06_WSE.html) : Demo for Step-6 with sound effect
 ### Step-7
 In this step, try to create game for 2D type of maze with small chang of the sample in Step-6. The algorithm for making maze is based on [Algoful](http://algoful.com/Archive/Algorithm/MazeDig).  
 [Cocos2d_Sample_07.html](https://to-fujita.github.io/Cocos2d_Sample_games/Cocos2dJS_Sample_07/Cocos2d_Sample_07.html) : Demo for Step-7
