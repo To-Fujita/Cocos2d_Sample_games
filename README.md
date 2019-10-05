@@ -13,7 +13,7 @@ The files and folders are as follows:
 -> project.json : It is also given by Cocos2d.js. In this file, it is assigned to load files.  
 -> src/app_xx.js : This is main program file.  
 -> src/loading.js : It is also given by Cocos2d.js.  
--> src/resource_01.js : In this file, it is assigned resources that are image files, sound files, and etc.  
+-> src/resource_xx.js : In this file, it is assigned resources that are image files, sound files, and etc.  
 ->src/stages_01.js: It is some data for puzzle game.  
 -> src/maze_02.js : It is a program for creating maze for Step-7.  
 - frameworks: It is a folder for cocos2d.js and their modules.  
