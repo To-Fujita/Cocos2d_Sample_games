@@ -15,7 +15,7 @@ The files and folders are as follows:
 -- src/loading.js : It is also given by Cocos2d.js.  
 -- src/resource_01.js : In this file, it is assigned resources that are image files, sound files, and etc.  
 -- src/stages_01.js: It is some data for puzzle game.  
--- src/maze_02.js : It is a program for creating maze.  
+-- src/maze_02.js : It is a program for creating maze for Step-7.  
 - frameworks: It is a folder for cocos2d.js and their modules.  
 - res: It is a folder for providing the background image, tile images, character's graphics and sound files.    
 
