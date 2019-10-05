@@ -8,14 +8,14 @@ These demonstrations are confirmed by Microsoft Edge (Ver. 11.0.17763.379), Fire
 [index.html](https://to-fujita.github.io/Cocos2d_Sample_games/index.html) : Menu for Demo Games  
 The files and folders are as follows:  
 - Cocos2d.js_Sample_01 - Cocos2d.js_Sample_07: Each folders is corresponding to each step below.  
--- Cocos2d_Sample_xx.html : HTML file for each step. All html files have similar contents.  
--- main_xx.js : It is given by Cocos2d.js.  
--- project.json : It is also given by Cocos2d.js. In this file, it is assigned to load files.  
--- src/app_xx.js : This is main program file.  
--- src/loading.js : It is also given by Cocos2d.js.  
--- src/resource_01.js : In this file, it is assigned resources that are image files, sound files, and etc.  
--- src/stages_01.js: It is some data for puzzle game.  
--- src/maze_02.js : It is a program for creating maze for Step-7.  
+-> Cocos2d_Sample_xx.html : HTML file for each step. All html files have similar contents.  
+-> main_xx.js : It is given by Cocos2d.js.  
+-> project.json : It is also given by Cocos2d.js. In this file, it is assigned to load files.  
+-> src/app_xx.js : This is main program file.  
+-> src/loading.js : It is also given by Cocos2d.js.  
+-> src/resource_01.js : In this file, it is assigned resources that are image files, sound files, and etc.  
+->src/stages_01.js: It is some data for puzzle game.  
+-> src/maze_02.js : It is a program for creating maze for Step-7.  
 - frameworks: It is a folder for cocos2d.js and their modules.  
 - res: It is a folder for providing the background image, tile images, character's graphics and sound files.    
 
