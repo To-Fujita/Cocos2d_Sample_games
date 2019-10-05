@@ -37,6 +37,7 @@ In this step, try to create game for 2D type of maze with small chang of the sam
 
 ## Reference:
 1. [Cocos2d-x](https://www.cocos.com/en/) : Home Page of Cocos2d-x  
+2. [Cocos2d-x](https://cocos2d-x.org/filecenter/jsbuilder/) : Download page for Cocos2d-JS
 2. [pikasgame](https://dorapika.wixsite.com/pikasgame) : Home Page of PIKA's GAME  
 3. [pipoya](http://blog.pipoya.net/) : Home Page of Pipoya  
 4. [Algoful](http://algoful.com/Archive/Algorithm/MazeDig) : Algorithm for making a maze  
