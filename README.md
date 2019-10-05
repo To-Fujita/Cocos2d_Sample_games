@@ -4,7 +4,7 @@ Cocos2d.JS is one of Game Engine based on JavaScript. I had tried to create some
 This is one of tutrial for creating some games based on cocos2d.js. In this document, to try creating 2D based breakout games with pazzle and maze. 
 ## Demo:
 I will show you same samples to create 2D based games of pazzle type step by step.  
-These demonstrations are confirmed by Microsoft Edge (Ver. 11.0.17763.379), Firefox (Ver. 65.0.2/64 bit) and Google Chrome (Ver. 73.0.3683.86/64 bit) under the condition of Windows 10. However, it is not supported the touch events.  
+These demonstrations are confirmed by Microsoft Edge (Ver. 11.0.17763.379), Firefox (Ver. 65.0.2/64 bit) and Google Chrome (Ver. 73.0.3683.86/64 bit) under the condition of Windows 10. However, it is not supported to the touch events.  
 [index.html](https://to-fujita.github.io/Cocos2d_Sample_games/index.html) : Menu for Demo Games  
 The files and folders are as follows:  
 - Cocos2d.js_Sample_01 - Cocos2d.js_Sample_07: Each folders is corresponding to each step below.  
