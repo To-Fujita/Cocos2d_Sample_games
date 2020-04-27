@@ -51,7 +51,7 @@ In this step, try to create game for 2D type of maze with small chang of the sam
 4. [Algoful](http://algoful.com/Archive/Algorithm/MazeDig) : Algorithm for making a maze  
 5. [soundeffect-lab](https://soundeffect-lab.info/) : Download for Sound Effect Data   
 ## Licence:
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT
 ## Author:
 [T. Fujita](https://github.com/To-Fujita)
 
